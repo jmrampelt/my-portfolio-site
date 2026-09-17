@@ -1,0 +1,9 @@
+title: Dr Jason M Rampelt - Academic Activities
+description: Research and Publications
+url: "https://jmrampelt.github.io"
+baseurl: "/my-portfolio-site" 
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
