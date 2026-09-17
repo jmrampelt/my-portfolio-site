@@ -3,7 +3,13 @@ description: Research and Publications
 url: "https://jmrampelt.github.io"
 baseurl: "/my-portfolio-site" 
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+
+minima:
+  skin: dark # Use 'auto' to automatically match the visitor's device settings
+
 
 plugins:
   - jekyll-remote-theme
